@@ -1,4 +1,4 @@
-module github.com/brpaz/godog-api-context
+module github.com/kleash/godog-api-context
 
 go 1.14
 

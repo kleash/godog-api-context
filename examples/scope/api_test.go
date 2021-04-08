@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	apicontext "github.com/brpaz/godog-api-context"
+	apicontext "github.com/kleash/godog-api-context"
 	"github.com/cucumber/godog"
 )
 
